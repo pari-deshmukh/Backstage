@@ -15,8 +15,6 @@ To see what factors I considered to finalise Backstage as a solution, see [Propo
 [Backstage POC](https://www.notion.so/Backstage-POC-fb3cce07ebda4d80bc8fdd04c19b2289)
 
 ## License
-Copyright 2020-2024 © The Backstage Authors. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page: https://www.linuxfoundation.org/trademark-usage
-
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 
 ## Security
